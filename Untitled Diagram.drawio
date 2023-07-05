@@ -1,1 +1,445 @@
-<mxfile host="app.diagrams.net" modified="2023-07-05T10:55:04.747Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="aGqtOaf9fYt1HBpU9wSj" compressed="true" version="21.5.2" type="github"><diagram name="Page-1" id="dkmab9GLrClfwDP9RH8d">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-07-05T10:56:03.430Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="IicTXALF_c0tNz55-kuJ" compressed="false" version="21.5.2" type="github">
+  <diagram name="Page-1" id="dkmab9GLrClfwDP9RH8d">
+    <mxGraphModel dx="9651" dy="5359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lK_kKArGwj4I3FMrGu4r-29" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;" parent="1" vertex="1">
+          <mxGeometry x="-630" y="-643.33" width="2520" height="2460" as="geometry" />
+        </mxCell>
+        <mxCell id="YYMGJmgsyo3d97nf6pvL-22" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-89" y="-380" width="400" height="1960" as="geometry" />
+        </mxCell>
+        <mxCell id="YYMGJmgsyo3d97nf6pvL-21" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="365" y="301.66999999999996" width="1330" height="1340" as="geometry" />
+        </mxCell>
+        <mxCell id="X6pGdibxIXQgzbIz9SDd-47" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;" parent="1" vertex="1">
+          <mxGeometry x="-605" y="1830" width="560" height="304" as="geometry" />
+        </mxCell>
+        <mxCell id="X6pGdibxIXQgzbIz9SDd-61" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;labelBackgroundColor=default;" parent="1" vertex="1">
+          <mxGeometry x="-2090" y="251.67" width="370" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="X6pGdibxIXQgzbIz9SDd-63" value="&lt;ul style=&quot;text-align: start; outline: none !important; font-size: 14px;&quot; class=&quot;&quot; data-bind=&quot;foreach: data.availableCategories, visible: data.summaryOptions.isShoeBoxV2()&quot;&gt;&lt;li style=&quot;outline: none !important;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Event Logs: Event logs record system events, such as changes to system configurations or software updates. Event logs are important for detecting and investigating potential security incidents.&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;outline: none !important;&quot;&gt;&lt;span style=&quot;&quot;&gt;Access Logs: Access logs record all attempts to access a system or application. This includes successful and unsuccessful attempts, as well as any changes made during the session. Access logs are important for tracking and detecting unauthorized access.&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;outline: none !important;&quot;&gt;&lt;span style=&quot;&quot;&gt;Audit Logs: Audit logs record all actions taken on a system or application. This includes creation, modification, and deletion of data. Audit logs are important for monitoring and detecting any unauthorized or inappropriate access to data.&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;outline: none !important;&quot;&gt;&lt;span style=&quot;&quot;&gt;Error Logs: Error logs record system errors and malfunctions. Error logs are important for identifying and resolving technical issues that may affect the confidentiality, integrity, and availability of data.&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;outline: none !important;&quot;&gt;&lt;span style=&quot;&quot;&gt;Access Logs: Access logs record all attempts to access PII/PHI. This includes successful and unsuccessful attempts, as well as any changes made during the session. Access logs are important for tracking and detecting unauthorized access to PII/PHI.&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;outline: none !important;&quot;&gt;&lt;span style=&quot;&quot;&gt;Audit Logs: Audit logs record all actions taken on PII/PHI. This includes creation, modification, and deletion of PII/PHI. Audit logs are important for monitoring and detecting any unauthorized or inappropriate access to PII/PHI.&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;outline: none !important;&quot;&gt;&lt;span style=&quot;&quot;&gt;Transmission Logs: Transmission logs record all PII/PHI sent and received over a network. Transmission logs are important for monitoring and detecting any unauthorized or inappropriate access to PII/PHI during transmission.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="-2090" y="301.66999999999996" width="370" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="X6pGdibxIXQgzbIz9SDd-66" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;labelBackgroundColor=default;" parent="1" vertex="1">
+          <mxGeometry x="-2090" y="941.67" width="370" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="X6pGdibxIXQgzbIz9SDd-68" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;ul style=&quot;text-align: start; outline: none !important;&quot; class=&quot;&quot; data-bind=&quot;foreach: data.availableCategories, visible: data.summaryOptions.isShoeBoxV2()&quot;&gt;&lt;li style=&quot;outline: none !important;&quot;&gt;IDs of User;&lt;/li&gt;&lt;li style=&quot;outline: none !important;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Activities of the system;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;outline: none !important;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;dates, times and key events details, such as log-on and log-off;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;outline: none !important;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;System ID or location and device recognition where possible;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;outline: none !important;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;records of the attempts to access the system successfully as well as rejected ones&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;outline: none !important;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;successful and unsuccessful data records and other attempts to access resources;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;outline: none !important;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;system configuration alterations;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;outline: none !important;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;utilization of privileges;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;outline: none !important;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;the application and use of systems utilities;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;outline: none !important;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Accessed files and access kinds;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;outline: none !important;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;network addresses and protocols;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;outline: none !important;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Entry management system warnings.&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;outline: none !important;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Protective mechanisms such as anti-virus and intrusion detection systems are activated and deactivated as required;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;outline: none !important;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Transaction records done in applications by users.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="-2090" y="941.67" width="370" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="YYMGJmgsyo3d97nf6pvL-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lK_kKArGwj4I3FMrGu4r-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810" y="1314" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lK_kKArGwj4I3FMrGu4r-1" value="prod-useast-law-diag-vmss-01" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Log_Analytics_Workspaces.svg;" parent="1" vertex="1">
+          <mxGeometry x="554" y="1282" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="YYMGJmgsyo3d97nf6pvL-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lK_kKArGwj4I3FMrGu4r-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810" y="1552.0000000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lK_kKArGwj4I3FMrGu4r-2" value="prod-useast-law-diag-box-01" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Log_Analytics_Workspaces.svg;" parent="1" vertex="1">
+          <mxGeometry x="550" y="1520" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="YYMGJmgsyo3d97nf6pvL-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.41;entryY=0.98;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lK_kKArGwj4I3FMrGu4r-3" target="lK_kKArGwj4I3FMrGu4r-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lK_kKArGwj4I3FMrGu4r-3" value="prod-useast-law-diag-all-01" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Log_Analytics_Workspaces.svg;" parent="1" vertex="1">
+          <mxGeometry x="1050" y="488" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="YYMGJmgsyo3d97nf6pvL-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lK_kKArGwj4I3FMrGu4r-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810" y="1434" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lK_kKArGwj4I3FMrGu4r-4" value="prod-useast-log-clddefender-export-01" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Log_Analytics_Workspaces.svg;" parent="1" vertex="1">
+          <mxGeometry x="554" y="1402" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="YYMGJmgsyo3d97nf6pvL-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lK_kKArGwj4I3FMrGu4r-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810" y="1172" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lK_kKArGwj4I3FMrGu4r-10" value="prod-useast-log-vms-ama-01" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Log_Analytics_Workspaces.svg;" parent="1" vertex="1">
+          <mxGeometry x="564" y="1140" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="lK_kKArGwj4I3FMrGu4r-11" value="produseastlogbackups01" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/storage/Storage_Accounts_Classic.svg;" parent="1" vertex="1">
+          <mxGeometry x="1360" y="29" width="65" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="YYMGJmgsyo3d97nf6pvL-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lK_kKArGwj4I3FMrGu4r-12" target="lK_kKArGwj4I3FMrGu4r-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lK_kKArGwj4I3FMrGu4r-12" value="diagnostic settings" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/LogDiagnostics.svg;" parent="1" vertex="1">
+          <mxGeometry x="1218" y="160" width="45" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lK_kKArGwj4I3FMrGu4r-13" value="diagnostic settings" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/LogDiagnostics.svg;" parent="1" vertex="1">
+          <mxGeometry x="130" y="-310" width="45" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lK_kKArGwj4I3FMrGu4r-14" value="activity log" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Log.svg;" parent="1" vertex="1">
+          <mxGeometry x="30" y="-310" width="45" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lK_kKArGwj4I3FMrGu4r-15" value="Sentinel" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Azure_Sentinel.svg;" parent="1" vertex="1">
+          <mxGeometry x="1470" y="330" width="44" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YYMGJmgsyo3d97nf6pvL-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lK_kKArGwj4I3FMrGu4r-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="-85" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lK_kKArGwj4I3FMrGu4r-16" value="Users" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Users.svg;" parent="1" vertex="1">
+          <mxGeometry x="-290" y="-120" width="64" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YYMGJmgsyo3d97nf6pvL-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lK_kKArGwj4I3FMrGu4r-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lK_kKArGwj4I3FMrGu4r-17" value="Key vaults" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/security/Key_Vaults.svg;" parent="1" vertex="1">
+          <mxGeometry x="-290" y="-4" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="YYMGJmgsyo3d97nf6pvL-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lK_kKArGwj4I3FMrGu4r-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lK_kKArGwj4I3FMrGu4r-18" value="Network interfaces" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Network_Interfaces.svg;" parent="1" vertex="1">
+          <mxGeometry x="-292" y="110" width="68" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YYMGJmgsyo3d97nf6pvL-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lK_kKArGwj4I3FMrGu4r-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="244" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lK_kKArGwj4I3FMrGu4r-19" value="Network security groups" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Network_Security_Groups.svg;" parent="1" vertex="1">
+          <mxGeometry x="-290" y="210" width="56.00000000000001" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="YYMGJmgsyo3d97nf6pvL-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lK_kKArGwj4I3FMrGu4r-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="356" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lK_kKArGwj4I3FMrGu4r-20" value="Public IP" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Public_IP_Addresses.svg;" parent="1" vertex="1">
+          <mxGeometry x="-292" y="330" width="65" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="YYMGJmgsyo3d97nf6pvL-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lK_kKArGwj4I3FMrGu4r-21" target="X6pGdibxIXQgzbIz9SDd-46">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-123" y="2074" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lK_kKArGwj4I3FMrGu4r-21" value="VM scale sets" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/VM_Scale_Sets.svg;" parent="1" vertex="1">
+          <mxGeometry x="-378" y="2040" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="YYMGJmgsyo3d97nf6pvL-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lK_kKArGwj4I3FMrGu4r-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lK_kKArGwj4I3FMrGu4r-22" value="Azure ML" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Machine_Learning_Service_Workspaces.svg;" parent="1" vertex="1">
+          <mxGeometry x="-292" y="560" width="55.2" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YYMGJmgsyo3d97nf6pvL-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lK_kKArGwj4I3FMrGu4r-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lK_kKArGwj4I3FMrGu4r-23" value="Recovery service vaults" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Recovery_Services_Vaults.svg;" parent="1" vertex="1">
+          <mxGeometry x="-290" y="670" width="69" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YYMGJmgsyo3d97nf6pvL-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lK_kKArGwj4I3FMrGu4r-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="806" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lK_kKArGwj4I3FMrGu4r-24" value="Storage accounts" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/storage/Storage_Accounts_Classic.svg;" parent="1" vertex="1">
+          <mxGeometry x="-292" y="780" width="65" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="YYMGJmgsyo3d97nf6pvL-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lK_kKArGwj4I3FMrGu4r-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="932" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lK_kKArGwj4I3FMrGu4r-25" value="Application gateways" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Application_Gateways.svg;" parent="1" vertex="1">
+          <mxGeometry x="-298" y="900" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="YYMGJmgsyo3d97nf6pvL-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lK_kKArGwj4I3FMrGu4r-26" target="X6pGdibxIXQgzbIz9SDd-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lK_kKArGwj4I3FMrGu4r-26" value="Virtual machine" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;" parent="1" vertex="1">
+          <mxGeometry x="-380" y="1900" width="69" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="lK_kKArGwj4I3FMrGu4r-28" value="Subscription 1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Subscriptions.svg;" parent="1" vertex="1">
+          <mxGeometry x="-370" y="-550" width="44" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="WbE1LeyKp8yqfBWYO2oa-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;labelBackgroundColor=default;" parent="1" vertex="1">
+          <mxGeometry x="-1550" y="-280" width="720" height="1880" as="geometry" />
+        </mxCell>
+        <mxCell id="WbE1LeyKp8yqfBWYO2oa-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Diagnostic settings logs&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=8;" parent="1" vertex="1">
+          <mxGeometry x="-1550" y="-280" width="720" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WbE1LeyKp8yqfBWYO2oa-7" value="&lt;ul style=&quot;outline: none !important; font-size: 14px;&quot; class=&quot;&quot; data-bind=&quot;foreach: data.availableCategories, visible: data.summaryOptions.isShoeBoxV2()&quot;&gt;&lt;li style=&quot;font-weight: inherit; outline: none !important;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;AuditLogs&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;font-weight: inherit; outline: none !important;&quot;&gt;&lt;span style=&quot;font-weight: inherit; outline: none !important;&quot; data-bind=&quot;text: localizedValue&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;SignInLogs&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-weight: inherit; outline: none !important;&quot;&gt;&lt;span style=&quot;font-weight: inherit; outline: none !important;&quot; data-bind=&quot;text: localizedValue&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;NonInteractiveUserSignInLogs&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-weight: inherit; outline: none !important;&quot;&gt;&lt;span style=&quot;font-weight: inherit; outline: none !important;&quot; data-bind=&quot;text: localizedValue&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;ServicePrincipalSignInLogs&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-weight: inherit; outline: none !important;&quot;&gt;&lt;span style=&quot;font-weight: inherit; outline: none !important;&quot; data-bind=&quot;text: localizedValue&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;ManagedIdentitySignInLogs&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-weight: inherit; outline: none !important;&quot;&gt;&lt;span style=&quot;font-weight: inherit; outline: none !important;&quot; data-bind=&quot;text: localizedValue&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;ProvisioningLogs&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-weight: inherit; outline: none !important;&quot;&gt;&lt;span style=&quot;font-weight: inherit; outline: none !important;&quot; data-bind=&quot;text: localizedValue&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;ADFSSignInLogs&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-weight: inherit; outline: none !important;&quot;&gt;&lt;span style=&quot;font-weight: inherit; outline: none !important;&quot; data-bind=&quot;text: localizedValue&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;RiskyUsers&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-weight: inherit; outline: none !important;&quot;&gt;&lt;span style=&quot;font-weight: inherit; outline: none !important;&quot; data-bind=&quot;text: localizedValue&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;UserRiskEvents&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-weight: inherit; outline: none !important;&quot;&gt;&lt;span style=&quot;font-weight: inherit; outline: none !important;&quot; data-bind=&quot;text: localizedValue&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;NetworkAccessTrafficLogs&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-weight: inherit; outline: none !important;&quot;&gt;&lt;span style=&quot;font-weight: inherit; outline: none !important;&quot; data-bind=&quot;text: localizedValue&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;RiskyServicePrincipals&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-weight: inherit; outline: none !important;&quot;&gt;&lt;span style=&quot;font-weight: inherit; outline: none !important;&quot; data-bind=&quot;text: localizedValue&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;ServicePrincipalRiskEvents&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-weight: inherit; outline: none !important;&quot;&gt;&lt;span style=&quot;font-weight: inherit; outline: none !important;&quot; data-bind=&quot;text: localizedValue&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;EnrichedOffice365AuditLogs&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-weight: inherit; outline: none !important;&quot;&gt;&lt;span style=&quot;font-weight: inherit; outline: none !important;&quot; data-bind=&quot;text: localizedValue&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;MicrosoftGraphActivityLogs&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="-1550" y="-230" width="720" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="YYMGJmgsyo3d97nf6pvL-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X6pGdibxIXQgzbIz9SDd-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="462" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X6pGdibxIXQgzbIz9SDd-1" value="Azure AD Domain Services" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Azure_AD_Domain_Services.svg;" parent="1" vertex="1">
+          <mxGeometry x="-304" y="430" width="70" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="X6pGdibxIXQgzbIz9SDd-2" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-349" y="-120" width="23" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="X6pGdibxIXQgzbIz9SDd-3" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-349" width="23" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="X6pGdibxIXQgzbIz9SDd-4" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-349" y="110" width="23" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="X6pGdibxIXQgzbIz9SDd-5" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-349" y="217.5" width="23" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="X6pGdibxIXQgzbIz9SDd-6" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-349" y="330" width="23" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="X6pGdibxIXQgzbIz9SDd-7" value="13" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-437" y="2040" width="23" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="X6pGdibxIXQgzbIz9SDd-8" value="7" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-349" y="560" width="23" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="X6pGdibxIXQgzbIz9SDd-9" value="8" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-349" y="670" width="23" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="X6pGdibxIXQgzbIz9SDd-10" value="9" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-349" y="780" width="23" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="X6pGdibxIXQgzbIz9SDd-11" value="10" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-349" y="900" width="23" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="X6pGdibxIXQgzbIz9SDd-12" value="12" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-435" y="1900" width="23" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="X6pGdibxIXQgzbIz9SDd-13" value="6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-349" y="430" width="23" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="X6pGdibxIXQgzbIz9SDd-14" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;align=center;" parent="1" vertex="1">
+          <mxGeometry x="-1550" y="-230" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X6pGdibxIXQgzbIz9SDd-15" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;labelBackgroundColor=default;" parent="1" vertex="1">
+          <mxGeometry x="-1360" y="-531.67" width="320" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="X6pGdibxIXQgzbIz9SDd-16" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Activity logs&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=8;" parent="1" vertex="1">
+          <mxGeometry x="-1360" y="-531.67" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X6pGdibxIXQgzbIz9SDd-17" value="&lt;ul style=&quot;text-align: start; font-size: 14px; outline: none !important;&quot; class=&quot;&quot; data-bind=&quot;foreach: data.availableCategories, visible: data.summaryOptions.isShoeBoxV2()&quot;&gt;&lt;li style=&quot;font-size: 14px; outline: none !important;&quot;&gt;&lt;font face=&quot;az_ea_font, Segoe UI, az_font, system-ui, -apple-system, BlinkMacSystemFont, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue, sans-serif&quot; style=&quot;font-size: 14px;&quot;&gt;Administrative&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 14px; outline: none !important;&quot;&gt;&lt;font face=&quot;az_ea_font, Segoe UI, az_font, system-ui, -apple-system, BlinkMacSystemFont, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue, sans-serif&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Security&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 14px; outline: none !important;&quot;&gt;&lt;font face=&quot;az_ea_font, Segoe UI, az_font, system-ui, -apple-system, BlinkMacSystemFont, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue, sans-serif&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;ServiceHealth&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 14px; outline: none !important;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;az_ea_font, Segoe UI, az_font, system-ui, -apple-system, BlinkMacSystemFont, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue, sans-serif&quot;&gt;Alert&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 14px; outline: none !important;&quot;&gt;&lt;font face=&quot;az_ea_font, Segoe UI, az_font, system-ui, -apple-system, BlinkMacSystemFont, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue, sans-serif&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Recommendation&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 14px; outline: none !important;&quot;&gt;&lt;font face=&quot;az_ea_font, Segoe UI, az_font, system-ui, -apple-system, BlinkMacSystemFont, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue, sans-serif&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Policy&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 14px; outline: none !important;&quot;&gt;&lt;font face=&quot;az_ea_font, Segoe UI, az_font, system-ui, -apple-system, BlinkMacSystemFont, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue, sans-serif&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Autoscale&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 14px; outline: none !important;&quot;&gt;&lt;font face=&quot;az_ea_font, Segoe UI, az_font, system-ui, -apple-system, BlinkMacSystemFont, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue, sans-serif&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;ResourceHealth&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=default;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="-1360" y="-481.67" width="320" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="X6pGdibxIXQgzbIz9SDd-18" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000099;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-1360" y="-481.67" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X6pGdibxIXQgzbIz9SDd-19" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000099;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry y="-360" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X6pGdibxIXQgzbIz9SDd-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="X6pGdibxIXQgzbIz9SDd-17" target="X6pGdibxIXQgzbIz9SDd-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X6pGdibxIXQgzbIz9SDd-23" value="&lt;ul style=&quot;outline: none !important; font-size: 14px;&quot; class=&quot;&quot; data-bind=&quot;foreach: data.availableCategories, visible: data.summaryOptions.isShoeBoxV2()&quot;&gt;&lt;li style=&quot;outline: none !important;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Administrative&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;outline: none !important;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Security&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;outline: none !important;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;ServiceHealth&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;outline: none !important;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Alert&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;outline: none !important;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Recommendation&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;outline: none !important;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Policy&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;outline: none !important;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Autoscale&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;outline: none !important;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;ResourceHealth&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="-1550" y="40" width="720" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="X6pGdibxIXQgzbIz9SDd-24" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;align=center;" parent="1" vertex="1">
+          <mxGeometry x="-1550" y="40" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X6pGdibxIXQgzbIz9SDd-25" value="&lt;ul style=&quot;outline: none !important;&quot; class=&quot;&quot; data-bind=&quot;foreach: data.availableCategories, visible: data.summaryOptions.isShoeBoxV2()&quot;&gt;&lt;li style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; font-weight: inherit; outline: none;&quot;&gt;&lt;font style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; font-size: 14px;&quot;&gt;AllMetrics&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="-1550" y="200" width="720" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X6pGdibxIXQgzbIz9SDd-26" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;align=center;" parent="1" vertex="1">
+          <mxGeometry x="-1550" y="200" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X6pGdibxIXQgzbIz9SDd-27" value="&lt;ul style=&quot;outline: none !important; font-size: 14px;&quot; class=&quot;&quot; data-bind=&quot;foreach: data.availableCategories, visible: data.summaryOptions.isShoeBoxV2()&quot;&gt;&lt;li style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; outline: none;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Network Security Group Event&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; outline: none;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Network Security Group Rule Counter&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="-1550" y="260" width="720" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X6pGdibxIXQgzbIz9SDd-28" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;align=center;" parent="1" vertex="1">
+          <mxGeometry x="-1550" y="260" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X6pGdibxIXQgzbIz9SDd-29" value="&lt;ul style=&quot;outline: none !important;&quot; class=&quot;&quot; data-bind=&quot;foreach: data.availableCategories, visible: data.summaryOptions.isShoeBoxV2()&quot;&gt;&lt;li style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; outline: none;&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: initial;&quot;&gt;DDoS protection notifications&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; outline: none;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Flow logs of DDoS mitigation decisions&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; outline: none;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Reports of DDoS mitigations&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; outline: none;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;AllMetrics&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="-1550" y="320" width="720" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="X6pGdibxIXQgzbIz9SDd-30" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;align=center;" parent="1" vertex="1">
+          <mxGeometry x="-1550" y="320" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YYMGJmgsyo3d97nf6pvL-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X6pGdibxIXQgzbIz9SDd-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="1046" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X6pGdibxIXQgzbIz9SDd-32" value="Load balancers" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Load_Balancers.svg;" parent="1" vertex="1">
+          <mxGeometry x="-302" y="1010" width="72" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="X6pGdibxIXQgzbIz9SDd-33" value="11" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-349" y="1010" width="23" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="X6pGdibxIXQgzbIz9SDd-34" value="&lt;ul style=&quot;outline: none !important; font-size: 14px;&quot; class=&quot;&quot; data-bind=&quot;foreach: data.availableCategories, visible: data.summaryOptions.isShoeBoxV2()&quot;&gt;&lt;li style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; outline: none;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;SystemSecurity&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; outline: none;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;AccountManagement&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; outline: none;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;LogonLogoff&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; outline: none;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;ObjectAccess&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; outline: none;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;PolicyChange&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; outline: none;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;PrivilegeUse&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; outline: none;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;DetailTracking&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; outline: none;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;DirectoryServiceAccess&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; outline: none;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;AccountLogon&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; outline: none;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;DNSServerAuditsDynamicUpdates - Preview&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; outline: none;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;DNSServerAuditsGeneral - Preview&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; outline: none;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;AllMetrics&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="-1550" y="410" width="720" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="X6pGdibxIXQgzbIz9SDd-35" value="6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;align=center;" parent="1" vertex="1">
+          <mxGeometry x="-1550" y="410" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X6pGdibxIXQgzbIz9SDd-36" value="&lt;ul style=&quot;outline: none !important; font-size: 14px;&quot; class=&quot;&quot; data-bind=&quot;foreach: data.availableCategories, visible: data.summaryOptions.isShoeBoxV2()&quot;&gt;&lt;li style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; outline: none;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;AmlComputeClusterEvent&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; outline: none;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;AmlComputeClusterNodeEvent&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; outline: none;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;AmlComputeJobEvent&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; outline: none;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;AmlComputeCpuGpuUtilization&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; outline: none;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;AmlRunStatusChangedEvent&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; outline: none;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;ModelsChangeEvent&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; outline: none;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;ModelsReadEvent&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; outline: none;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;ModelsActionEvent&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; outline: none;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;DeploymentReadEvent&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; outline: none;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;DeploymentEventACI&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; outline: none;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;DeploymentEventAKS&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; outline: none;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;InferencingOperationAKS&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; outline: none;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;InferencingOperationACI&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; outline: none;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;EnvironmentChangeEvent&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; outline: none;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;EnvironmentReadEvent&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; outline: none;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;DataLabelChangeEvent&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; outline: none;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;DataLabelReadEvent&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; outline: none;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;ComputeInstanceEvent&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; outline: none;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;DataStoreChangeEvent&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; outline: none;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;DataStoreReadEvent&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; outline: none;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;DataSetChangeEvent&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; outline: none;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;DataSetReadEvent&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; outline: none;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;PipelineChangeEvent&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; outline: none;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;PipelineReadEvent&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; outline: none;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;RunEvent&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; outline: none;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;RunReadEvent&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; outline: none;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;AllMetrics&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="-1550" y="630" width="720" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="X6pGdibxIXQgzbIz9SDd-37" value="7" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;align=center;" parent="1" vertex="1">
+          <mxGeometry x="-1550" y="630" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X6pGdibxIXQgzbIz9SDd-38" value="&lt;ul style=&quot;outline: none !important; font-size: 14px;&quot; class=&quot;&quot; data-bind=&quot;foreach: data.availableCategories, visible: data.summaryOptions.isShoeBoxV2()&quot;&gt;&lt;li style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; outline: none;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Azure Backup Reporting Data&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; outline: none;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Core Azure Backup Data&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; outline: none;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Addon Azure Backup Job Data&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; outline: none;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Addon Azure Backup Alert Data&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; outline: none;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Addon Azure Backup Policy Data&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; outline: none;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Addon Azure Backup Storage Data&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; outline: none;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Addon Azure Backup Protected Instance Data&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; outline: none;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Azure Site Recovery Jobs&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; outline: none;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Azure Site Recovery Events&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; outline: none;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Azure Site Recovery Replicated Items&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; outline: none;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Azure Site Recovery Replication Stats&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; outline: none;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Azure Site Recovery Recovery Points&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; outline: none;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Azure Site Recovery Replication Data Upload Rate&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; outline: none;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Azure Site Recovery Protected Disk Data Churn&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; outline: none;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Health&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="-1550" y="1110" width="720" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="X6pGdibxIXQgzbIz9SDd-39" value="8" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;align=center;" parent="1" vertex="1">
+          <mxGeometry x="-1550" y="1110" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X6pGdibxIXQgzbIz9SDd-40" value="&lt;ul style=&quot;outline: none !important;&quot; class=&quot;&quot; data-bind=&quot;foreach: data.availableCategories, visible: data.summaryOptions.isShoeBoxV2()&quot;&gt;&lt;li style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; font-weight: inherit; outline: none;&quot;&gt;&lt;font style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; font-size: 14px;&quot;&gt;Transaction&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="-1550" y="1390" width="720" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X6pGdibxIXQgzbIz9SDd-41" value="9" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;align=center;" parent="1" vertex="1">
+          <mxGeometry x="-1550" y="1390" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X6pGdibxIXQgzbIz9SDd-42" value="&lt;ul style=&quot;outline: none !important; font-size: 14px;&quot; class=&quot;&quot; data-bind=&quot;foreach: data.availableCategories, visible: data.summaryOptions.isShoeBoxV2()&quot;&gt;&lt;li style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; outline: none;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Application Gateway Access Log&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; outline: none;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Application Gateway Performance Log&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; outline: none;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Application Gateway Firewall Log&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; outline: none;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;AllMetrics&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="-1550" y="1450" width="720" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="X6pGdibxIXQgzbIz9SDd-43" value="10" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;align=center;" parent="1" vertex="1">
+          <mxGeometry x="-1550" y="1450" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X6pGdibxIXQgzbIz9SDd-44" value="&lt;ul style=&quot;outline: none !important;&quot; class=&quot;&quot; data-bind=&quot;foreach: data.availableCategories, visible: data.summaryOptions.isShoeBoxV2()&quot;&gt;&lt;li style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; outline: none;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;AllMetrics&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="-1550" y="1540" width="720" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X6pGdibxIXQgzbIz9SDd-45" value="11" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;align=center;" parent="1" vertex="1">
+          <mxGeometry x="-1550" y="1540" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YYMGJmgsyo3d97nf6pvL-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X6pGdibxIXQgzbIz9SDd-46" target="YYMGJmgsyo3d97nf6pvL-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X6pGdibxIXQgzbIz9SDd-46" value="AMA agent" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Endpoint_Analytics.svg;" parent="1" vertex="1">
+          <mxGeometry x="-157" y="1972" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="X6pGdibxIXQgzbIz9SDd-49" value="On-premises" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
+          <mxGeometry x="-545" y="1830" width="184" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X6pGdibxIXQgzbIz9SDd-55" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;labelBackgroundColor=default;" parent="1" vertex="1">
+          <mxGeometry x="-2090" y="-280" width="370" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="X6pGdibxIXQgzbIz9SDd-56" value="&lt;div&gt;&lt;b&gt;HIPAA requires the collection of several types of logs, including:&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=8;" parent="1" vertex="1">
+          <mxGeometry x="-2090" y="-280" width="370" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="X6pGdibxIXQgzbIz9SDd-57" value="&lt;ul style=&quot;text-align: start; outline: none !important; font-size: 14px;&quot; class=&quot;&quot; data-bind=&quot;foreach: data.availableCategories, visible: data.summaryOptions.isShoeBoxV2()&quot;&gt;&lt;li style=&quot;outline: none !important;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Access Logs: Access logs record all attempts to access ePHI. This includes successful and unsuccessful attempts, as well as any changes made during the session. Access logs are important for tracking and detecting unauthorized access to ePHI.&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;outline: none !important;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Audit Logs: Audit logs record all actions taken on ePHI. This includes creation, modification, and deletion of ePHI. Audit logs are important for monitoring and detecting any unauthorized or inappropriate access to ePHI.&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;outline: none !important;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Event Logs: Event logs record system events, such as changes to system configurations or software updates. Event logs are important for detecting and investigating any potential security incidents.&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;outline: none !important;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Error Logs: Error logs record system errors and malfunctions. Error logs are important for identifying and resolving technical issues that may affect the confidentiality, integrity, and availability of ePHI.&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;outline: none !important;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Transmission Logs: Transmission logs record all ePHI sent and received over a network. Transmission logs are important for monitoring and detecting any unauthorized or inappropriate access to ePHI during transmission.&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="-2090" y="-230.00000000000003" width="370" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="X6pGdibxIXQgzbIz9SDd-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="X6pGdibxIXQgzbIz9SDd-57" target="X6pGdibxIXQgzbIz9SDd-57" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X6pGdibxIXQgzbIz9SDd-62" value="&lt;div&gt;&lt;div&gt;&lt;b&gt;ISO 27001 also requires the collection of several types of logs, including:&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=8;" parent="1" vertex="1">
+          <mxGeometry x="-2090" y="251.67" width="370" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="X6pGdibxIXQgzbIz9SDd-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="X6pGdibxIXQgzbIz9SDd-63" target="X6pGdibxIXQgzbIz9SDd-63" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X6pGdibxIXQgzbIz9SDd-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="X6pGdibxIXQgzbIz9SDd-68" target="X6pGdibxIXQgzbIz9SDd-68" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YYMGJmgsyo3d97nf6pvL-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-2060" y="-531.67" width="320" height="111.67" as="geometry" />
+        </mxCell>
+        <mxCell id="YYMGJmgsyo3d97nf6pvL-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;AMA agent logs&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=8;" vertex="1" parent="1">
+          <mxGeometry x="-2060" y="-531.67" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YYMGJmgsyo3d97nf6pvL-3" value="&lt;ul style=&quot;text-align: start; font-size: 14px; outline: none !important;&quot; class=&quot;&quot; data-bind=&quot;foreach: data.availableCategories, visible: data.summaryOptions.isShoeBoxV2()&quot;&gt;&lt;li style=&quot;font-size: 14px; outline: none !important;&quot;&gt;&lt;font face=&quot;az_ea_font, Segoe UI, az_font, system-ui, -apple-system, BlinkMacSystemFont, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue, sans-serif&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Security Events&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=default;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-2060" y="-481.67" width="320" height="61.67" as="geometry" />
+        </mxCell>
+        <mxCell id="YYMGJmgsyo3d97nf6pvL-4" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#CC0000;strokeColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2060" y="-481.67" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YYMGJmgsyo3d97nf6pvL-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="YYMGJmgsyo3d97nf6pvL-3" target="YYMGJmgsyo3d97nf6pvL-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YYMGJmgsyo3d97nf6pvL-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YYMGJmgsyo3d97nf6pvL-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1070" y="1370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YYMGJmgsyo3d97nf6pvL-8" value="Data collection rule" style="shape=mxgraph.bpmn.data;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;size=15;html=1;bpmnTransferType=none;isCollection=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="1720" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YYMGJmgsyo3d97nf6pvL-11" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#CC0000;strokeColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-205" y="1960" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YYMGJmgsyo3d97nf6pvL-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YYMGJmgsyo3d97nf6pvL-12" target="lK_kKArGwj4I3FMrGu4r-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YYMGJmgsyo3d97nf6pvL-12" value="Defender" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/security/Azure_Defender.svg;" vertex="1" parent="1">
+          <mxGeometry x="-298.79999999999995" y="1400" width="56.00000000000001" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="YYMGJmgsyo3d97nf6pvL-13" value="14" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-355" y="1400" width="23" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="YYMGJmgsyo3d97nf6pvL-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YYMGJmgsyo3d97nf6pvL-14" target="lK_kKArGwj4I3FMrGu4r-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YYMGJmgsyo3d97nf6pvL-14" value="VM scale sets" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/VM_Scale_Sets.svg;" vertex="1" parent="1">
+          <mxGeometry x="-298" y="1280" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="YYMGJmgsyo3d97nf6pvL-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YYMGJmgsyo3d97nf6pvL-15" target="lK_kKArGwj4I3FMrGu4r-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YYMGJmgsyo3d97nf6pvL-15" value="Virtual machine" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="1140" width="69" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="YYMGJmgsyo3d97nf6pvL-16" value="13" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-357" y="1280" width="23" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="YYMGJmgsyo3d97nf6pvL-17" value="12" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-355" y="1140" width="23" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="YYMGJmgsyo3d97nf6pvL-23" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Main workspace&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1012" y="419.5" width="140" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="YYMGJmgsyo3d97nf6pvL-25" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="810.1600000000001" y="1150" as="sourcePoint" />
+            <mxPoint x="810" y="1600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YYMGJmgsyo3d97nf6pvL-31" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="lK_kKArGwj4I3FMrGu4r-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="810" y="1370" as="sourcePoint" />
+            <mxPoint x="1000" y="1360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1080" y="1370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YYMGJmgsyo3d97nf6pvL-32" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="119" y="-160" as="sourcePoint" />
+            <mxPoint x="119.23000000000002" y="1095" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YYMGJmgsyo3d97nf6pvL-44" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="lK_kKArGwj4I3FMrGu4r-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="520" as="sourcePoint" />
+            <mxPoint x="500" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YYMGJmgsyo3d97nf6pvL-46" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.023;entryY=0.558;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.224;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="YYMGJmgsyo3d97nf6pvL-22" target="lK_kKArGwj4I3FMrGu4r-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1020" y="100" as="sourcePoint" />
+            <mxPoint x="1070" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
