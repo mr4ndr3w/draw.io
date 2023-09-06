@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-06T21:34:38.136Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="bwgUa2-jdO2kEG5CEVGb" compressed="false" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-06T21:42:59.555Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="SPQVfN0UoUnWeYG8G8ur" compressed="false" version="21.7.2" type="github">
   <diagram name="Page-1" id="dkmab9GLrClfwDP9RH8d">
-    <mxGraphModel dx="5088" dy="2664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="9651" dy="5279" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -472,13 +472,18 @@
         <mxCell id="yEB8JrcpXdG_669UZ4kb-9" value="MSSP Tenant" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Azure_Active_Directory.svg;" vertex="1" parent="1">
           <mxGeometry x="-550" y="-640" width="70" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="yEB8JrcpXdG_669UZ4kb-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.427;entryY=1.003;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.484;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="YYMGJmgsyo3d97nf6pvL-21" target="EMm1DCFIppZOBO6Ce3pB-1">
+        <mxCell id="yEB8JrcpXdG_669UZ4kb-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.519;entryY=1.003;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.484;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="YYMGJmgsyo3d97nf6pvL-21" target="EMm1DCFIppZOBO6Ce3pB-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1700" y="950" as="sourcePoint" />
             <mxPoint x="1820" y="600" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="2330" y="950" />
+              <mxPoint x="2410" y="950" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yEB8JrcpXdG_669UZ4kb-13" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;MSSP provide template or offer&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yEB8JrcpXdG_669UZ4kb-10">
+          <mxGeometry x="-0.2188" y="-2" relative="1" as="geometry">
+            <mxPoint x="35" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yEB8JrcpXdG_669UZ4kb-11" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.554;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.588;exitY=1.006;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="EMm1DCFIppZOBO6Ce3pB-1" target="YYMGJmgsyo3d97nf6pvL-21">
@@ -489,6 +494,14 @@
               <mxPoint x="2465" y="1044" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="yEB8JrcpXdG_669UZ4kb-14" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Customer grant access&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yEB8JrcpXdG_669UZ4kb-11">
+          <mxGeometry x="0.2695" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yEB8JrcpXdG_669UZ4kb-15" value="Customer Log Analytics Workspace" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Log_Analytics_Workspaces.svg;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="946" width="64" height="64" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
