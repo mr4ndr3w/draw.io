@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-06T18:58:37.846Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="V_2WJqD6rLqaBxxO91yM" compressed="false" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-06T21:25:48.802Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="wZrQtg6-RY8uK2lxcwZ0" compressed="false" version="21.7.2" type="github">
   <diagram name="Page-1" id="dkmab9GLrClfwDP9RH8d">
-    <mxGraphModel dx="12041" dy="6649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5349" dy="2813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,7 +14,7 @@
           <mxGeometry x="365" y="301.66999999999996" width="1330" height="1340" as="geometry" />
         </mxCell>
         <mxCell id="X6pGdibxIXQgzbIz9SDd-47" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-605" y="1830" width="560" height="304" as="geometry" />
+          <mxGeometry x="2160" y="1520" width="560" height="304" as="geometry" />
         </mxCell>
         <mxCell id="X6pGdibxIXQgzbIz9SDd-61" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="-2090" y="251.67" width="370" height="670" as="geometry" />
@@ -127,12 +127,12 @@
         <mxCell id="YYMGJmgsyo3d97nf6pvL-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lK_kKArGwj4I3FMrGu4r-21" target="X6pGdibxIXQgzbIz9SDd-46" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-123" y="2074" />
+              <mxPoint x="2642" y="1764" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="lK_kKArGwj4I3FMrGu4r-21" value="VM scale sets" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/VM_Scale_Sets.svg;" parent="1" vertex="1">
-          <mxGeometry x="-378" y="2040" width="68" height="68" as="geometry" />
+          <mxGeometry x="2387" y="1730" width="68" height="68" as="geometry" />
         </mxCell>
         <mxCell id="YYMGJmgsyo3d97nf6pvL-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lK_kKArGwj4I3FMrGu4r-22" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -170,7 +170,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lK_kKArGwj4I3FMrGu4r-26" value="Virtual machine" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;" parent="1" vertex="1">
-          <mxGeometry x="-380" y="1900" width="69" height="64" as="geometry" />
+          <mxGeometry x="2385" y="1590" width="69" height="64" as="geometry" />
         </mxCell>
         <mxCell id="lK_kKArGwj4I3FMrGu4r-28" value="Subscription 1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Subscriptions.svg;" parent="1" vertex="1">
           <mxGeometry x="-370" y="-550" width="44" height="71" as="geometry" />
@@ -208,7 +208,7 @@
           <mxGeometry x="-349" y="330" width="23" height="23" as="geometry" />
         </mxCell>
         <mxCell id="X6pGdibxIXQgzbIz9SDd-7" value="13" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-437" y="2040" width="23" height="23" as="geometry" />
+          <mxGeometry x="2328" y="1730" width="23" height="23" as="geometry" />
         </mxCell>
         <mxCell id="X6pGdibxIXQgzbIz9SDd-8" value="7" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="-349" y="560" width="23" height="23" as="geometry" />
@@ -223,7 +223,7 @@
           <mxGeometry x="-349" y="900" width="23" height="23" as="geometry" />
         </mxCell>
         <mxCell id="X6pGdibxIXQgzbIz9SDd-12" value="12" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-435" y="1900" width="23" height="23" as="geometry" />
+          <mxGeometry x="2330" y="1590" width="23" height="23" as="geometry" />
         </mxCell>
         <mxCell id="X6pGdibxIXQgzbIz9SDd-13" value="6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="-349" y="430" width="23" height="23" as="geometry" />
@@ -324,10 +324,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X6pGdibxIXQgzbIz9SDd-46" value="AMA agent" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Endpoint_Analytics.svg;" parent="1" vertex="1">
-          <mxGeometry x="-157" y="1972" width="68" height="68" as="geometry" />
+          <mxGeometry x="2608" y="1662" width="68" height="68" as="geometry" />
         </mxCell>
         <mxCell id="X6pGdibxIXQgzbIz9SDd-49" value="On-premises" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-545" y="1830" width="184" height="40" as="geometry" />
+          <mxGeometry x="2220" y="1520" width="184" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X6pGdibxIXQgzbIz9SDd-55" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="-2090" y="-280" width="370" height="500" as="geometry" />
@@ -371,10 +371,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YYMGJmgsyo3d97nf6pvL-8" value="Data collection rule" style="shape=mxgraph.bpmn.data;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;size=15;html=1;bpmnTransferType=none;isCollection=1;" parent="1" vertex="1">
-          <mxGeometry x="1050" y="1720" width="40" height="60" as="geometry" />
+          <mxGeometry x="1050" y="1666" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YYMGJmgsyo3d97nf6pvL-11" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#CC0000;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-205" y="1960" width="30" height="30" as="geometry" />
+          <mxGeometry x="2560" y="1650" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YYMGJmgsyo3d97nf6pvL-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YYMGJmgsyo3d97nf6pvL-12" target="lK_kKArGwj4I3FMrGu4r-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -439,11 +439,17 @@
             <mxPoint x="1070" y="50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EMm1DCFIppZOBO6Ce3pB-1" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="2490" y="169.99999999999997" width="1330" height="1340" as="geometry" />
+        <mxCell id="EMm1DCFIppZOBO6Ce3pB-1" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;" parent="1" vertex="1">
+          <mxGeometry x="2080" y="-520" width="770" height="820" as="geometry" />
         </mxCell>
-        <mxCell id="EMm1DCFIppZOBO6Ce3pB-2" value="Sentinel" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Azure_Sentinel.svg;" vertex="1" parent="1">
-          <mxGeometry x="3640" y="360" width="44" height="50" as="geometry" />
+        <mxCell id="EMm1DCFIppZOBO6Ce3pB-2" value="Sentinel" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Azure_Sentinel.svg;" parent="1" vertex="1">
+          <mxGeometry x="2180" y="-420" width="44" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yEB8JrcpXdG_669UZ4kb-1" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="2060" y="440" width="770" height="820" as="geometry" />
+        </mxCell>
+        <mxCell id="yEB8JrcpXdG_669UZ4kb-2" value="Lighthouse" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Azure_Lighthouse.svg;" vertex="1" parent="1">
+          <mxGeometry x="2121" y="494" width="59" height="68" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
